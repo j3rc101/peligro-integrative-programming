@@ -1,0 +1,27 @@
+.head {
+  font-size: large;
+  color: white;
+  background-color: black;
+  text-align: left;
+}
+
+.body {
+  font-size: small;
+  color: white;
+  background-color: black;
+  text-align: left;
+}
+
+.delete {
+  background-color: white;
+  color: black;
+  font-weight: 800;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 5px;
+  border-color: white;
+}
+
+.containerdelete {
+  display: flex;
+  justify-content: center;
+}
