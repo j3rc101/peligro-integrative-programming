@@ -87,7 +87,7 @@ nav a:hover {
 
 /* Hero image area */
 
-.image-icon {
+.hero-icon {
   min-height: 240px;
   border-radius: 16px;
   background: #1b1b1c;
@@ -151,4 +151,5 @@ footer {
     padding-top: 2.5rem;
   }
 }
+
 
